@@ -1,0 +1,2 @@
+assemblyai==0.64.26
+python-dotenv==1.2.1

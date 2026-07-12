@@ -1,0 +1,10 @@
+.env
+.venv
+DS_Store
+transcript.txt
+conversation.json
+audio/
+venv/
+transcripts/
+__pycache__
+myenv/
