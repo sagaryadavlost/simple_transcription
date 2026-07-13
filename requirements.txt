@@ -1,2 +1,16 @@
+# Core dependencies
 assemblyai==0.64.26
-python-dotenv==1.2.1
+python-dotenv==1.2.2
+
+# Optional GUI dependencies (install with: pip install -r requirements.txt)
+# ttkbootstrap - Modern themes for tkinter
+ttkbootstrap==1.20.4
+
+# tkinterdnd2 - Drag & drop file support
+tkinterdnd2==0.6.2
+
+# pygame - Audio playback preview
+pygame==2.6.1
+
+# python-docx - DOCX export format support
+python-docx==1.2.0
